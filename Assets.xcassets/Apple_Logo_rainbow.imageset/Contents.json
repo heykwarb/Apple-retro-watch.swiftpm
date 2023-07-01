@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Apple_Computer_Logo_rainbow.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
